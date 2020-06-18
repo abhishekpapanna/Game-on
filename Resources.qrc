@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Planebg.mp3</file>
+        <file>bullet.mp3</file>
+        <file>Blast.mp3</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
